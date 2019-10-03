@@ -1,6 +1,6 @@
 <div class="row" style="height:500px">
   <div class="column" style="width:50%">
-    <img src="/images/my_pic.jpeg" alt="Avatar" style="width:300px"><br>
+    <img src="https://drive.google.com/open?id=1hs1ajqBTw5P1p8F2OvqeKBRN8ob30mjU" alt="Avatar" style="width:300px"><br>
     <br><p>
     Mobile: +91 8600692500<br>
     Email:  ajinkyapathak94@gmail.com</p>
